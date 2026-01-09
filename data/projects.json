@@ -255,4 +255,21 @@
         "slug":  "portfolio-fotografo",
         "images":  ["portfolio/elite-photo-1.png"]
     }
+    ,
+    {
+        "title_pt": "LaunchPulse Events",
+        "title_en": "LaunchPulse Events",
+        "short_pt": "Landing para eventos e lançamentos",
+        "short_en": "Event & launch landing page",
+        "context_en": "LaunchPulse needed a modern landing to present upcoming events and capture sign-ups. Their previous presence lacked a clear event showcase and registration flow, causing low engagement.",
+        "solution_en": "I designed and implemented a focused landing page with clear event sections, persuasive CTAs, and an optimized signup form. The process included wireframing, responsive UI design, and lightweight performance optimizations to ensure fast load times for mobile users.",
+        "result_en": "The new landing improved event visibility and simplified registrations, increasing signup conversions and providing a clean, professional presence for launches.",
+        "cta_en": "Check the live event site and reach out to build a launch-ready landing page!",
+        "thumb":  "portfolio/Launchpulse-1.png",
+        "tags": ["Web","Event","Landing"],
+        "cover":  "portfolio/Launchpulse-1.png",
+        "caseUrl":  "https://launchpulseevents.netlify.app/",
+        "slug":  "launchpulse-events",
+        "images":  ["portfolio/Launchpulse-1.png"]
+    }
 ]
